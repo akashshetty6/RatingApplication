@@ -1,0 +1,25 @@
+#server:
+#  port: 8082
+spring:
+#  datasource:
+#    url: jdbc:mariadb://localhost:3307/hotelservice
+#    driver-class-name: org.mariadb.jdbc.Driver
+#    username: root
+#    password: root
+  application:
+    name: hotel-service
+#    
+
+  config:
+    import: optional:configserver:http://localhost:8888 
+#  jpa:
+#    hibernate:
+#      ddl-auto: update  
+#eureka:
+#  client:
+#    register-with-eureka: true
+#    fetch-registry: true
+#    service-url:
+#      defaultZone: http://localhost:8761/eureka 
+       
+ 

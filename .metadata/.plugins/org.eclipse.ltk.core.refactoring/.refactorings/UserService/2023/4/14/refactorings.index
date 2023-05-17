@@ -1,0 +1,6 @@
+1680513137138	Rename package 'com.aus.userService.entity.User'
+1680598840093	Copy compilation unit
+1680701298823	Extract local variable 'rating'
+1680706884572	Extract local variable 'ratingsByUserId'
+1680709510239	Extract local variable 'hotel'
+1680709710998	Extract local variable 'collect'

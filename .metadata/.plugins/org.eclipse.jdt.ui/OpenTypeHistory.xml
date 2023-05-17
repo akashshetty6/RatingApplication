@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=HotelService/C:\/Users\/akash\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.0.4\/spring-data-jpa-3.0.4.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.0.4=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1680421819885"/>
+    <typeInfo handle="=RatingService/C:\/Users\/akash\/.m2\/repository\/org\/springframework\/data\/spring-data-mongodb\/4.0.4\/spring-data-mongodb-4.0.4.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-mongodb=/=/maven.version=/4.0.4=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.mongodb.repository(MongoRepository.class[MongoRepository" modifiers="1537" timestamp="1680600897650"/>
+    <typeInfo handle="=RatingService/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.aus.rating.repository{RatingRepository.java[RatingRepository" modifiers="513" timestamp="1680606058633"/>
+</typeInfoHistroy>
